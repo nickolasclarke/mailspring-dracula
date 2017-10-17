@@ -7,8 +7,7 @@
   "description": "A dark theme for Nylas N1",
   "license": "GPL-3.0",
   "engines": {
-    "nylas": "*"
+    "mailspring": "*"
   },
   "private": true
 }
-

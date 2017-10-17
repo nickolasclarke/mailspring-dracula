@@ -1,20 +1,18 @@
-# Dracula for [Nylas N1](http://nylas.com)
+# Dracula for [Mailspring](https://getmailspring.com/)
 
-> A dark theme for [Nylas N1](http://nylas.com).
+## A dark theme for [Mailspring](https://getmailspring.com/). Ported from [@benjamingarcia's](https://github.com/benjamingarcia/nylas-n1) theme for Nylas Mail.
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/nylas-n1.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/nylas-n1](https://draculatheme.com/nylas-n1).
+Currently this theme can be installed by following the instructions of the original project  at [draculatheme.com/nylas-n1](https://draculatheme.com/nylas-n1).
+
+*please note the titles and filenames may be different, but the simple instructions are generally the same. We will have a dedicated page for Mailspring soon!*
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/nylas-n1/graphs/contributors).
-
-| [![Benjamin Garcia](https://avatars3.githubusercontent.com/u/1433960?v=3&s=70)](https://github.com/benjamingarcia/) |
-| --- |
-| [Benjamin Garcia](https://github.com/benjamingarcia) |
+This theme was originally created by [@benjamingarcia](https://github.com/dracula/nylas-n1) is maintained for Mailspring by [@nickolasclarke](https://github.com/nickolasclarke) and a bunch of [awesome contributors](https://github.com/dracula/mailspring/graphs/contributors).
 
 ## License
 
